@@ -1,0 +1,8 @@
+backup/*
+!backup/.*
+cache/*
+!cache/.*
+logs/*
+!logs/.*
+tmp/*
+!tmp/.*
